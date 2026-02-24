@@ -351,6 +351,5 @@ The Slack post interface provides support for the following Markdown elements.
 ### See Also
 
 - [Formatting Slack messages in the interface](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
-- [Formatting Slack posts in the interface](https://get.slack.help/hc/en-us/articles/203950418-Composing-a-Post#-formatting-options)
 - [API documentation for formatting Slack messages](https://api.slack.com/messaging/composing/formatting)
 - [slack_markdown ruby gem](https://github.com/rutan/slack_markdown)

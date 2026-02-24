@@ -65,7 +65,7 @@ syntax:
     notes: "Some HTML is sanitized."
 ---
 
-[Buttondown](https://buttondown.com) is an email platform, similar to the now-defunct [TinyLetter](https://buttondown.com/comparisons/tinyletter), that allows you to send emails to subscribers. It also has integrations with many other platforms to automatically publish or add subscribers, amongst other possibilities.
+[Buttondown](https://buttondown.com) is an email platform that allows you to send emails to subscribers. It also has integrations with many other platforms to automatically publish or add subscribers, amongst other possibilities.
 
 The email editor [supports Markdown](https://buttondown.com/features/markdown), with the possibility to switch to a WYSIWYG editor for those who prefer it.
 
